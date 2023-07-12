@@ -56,6 +56,11 @@
                                 "label": "URL",
                                 "format": "text",
                                 "field": "url"
+                            },
+                            { 
+                                "label": "Facilities",
+                                "format": "text",
+                                "field": "facilities"
                             }
                         ]
                     }
