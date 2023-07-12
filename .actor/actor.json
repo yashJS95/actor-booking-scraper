@@ -22,7 +22,7 @@
                             "reviews",
                             "url",
                             "image",
-                            "amenities"
+                            "hp_d_property_popular_facilities_seen"
                         ]
  
                     },
@@ -61,7 +61,7 @@
                             { 
                                 "label": "Amenities",
                                 "format": "text",
-                                "field": "amenities"
+                                "field": "hp_d_property_popular_facilities_seen"
                             },
                             { 
                                 "label": "Description",
