@@ -22,7 +22,7 @@
                             "reviews",
                             "url",
                             "image",
-                            "facilities"
+                            "amenities"
                         ]
  
                     },
@@ -59,9 +59,9 @@
                                 "field": "url"
                             },
                             { 
-                                "label": "Facilities",
+                                "label": "Amenities",
                                 "format": "text",
-                                "field": "facilities"
+                                "field": "amenities"
                             },
                             { 
                                 "label": "Description",
