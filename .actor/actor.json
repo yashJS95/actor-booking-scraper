@@ -20,7 +20,8 @@
                             "rating",
                             "reviews",
                             "url",
-                            "image"
+                            "image",
+                            "facilities"
                         ]
  
                     },
